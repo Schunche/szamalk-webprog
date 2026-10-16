@@ -1,0 +1,7 @@
+* {
+    background-color:color-mix(in hsl shorter hue, rgb(65, 125, 255) 20%, rgb(25, 25, 25) 50%)
+}
+
+img {
+    width: 300px;
+}
